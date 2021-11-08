@@ -4,7 +4,10 @@ Used API key to source currency rates - https://v6.exchangerate-api.com/v6/{{API
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you should/can run:
+
+### `npm install` 
+After cloning the repo, run the above command.
 
 ### `npm start`
 
